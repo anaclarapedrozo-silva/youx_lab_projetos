@@ -1,0 +1,83 @@
+.div_principal {
+  display: grid;
+  place-items: center;
+  min-height: 100vh;
+}
+
+.metadeCadastro {
+  background-color: aqua;
+  width: 800px;
+  height: 500px;
+  border-radius: 15px;
+  background: linear-gradient(
+    to right,
+    #9a3f3f 0%,
+    #9a3f3f 50%,
+    #e6cfa9 50%,
+    #e6cfa9 100%
+  );
+  box-shadow: 1px 1px 15px 1px #9a3f3f;
+  position: relative;
+}
+
+.inputs {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  right: 0;
+  top: 140px;
+}
+
+.inputs input {
+  width: 340px;
+  height: 24px;
+  border: none;
+  border-radius: 5px;
+  margin-left: 20px;
+  margin: 18px;
+}
+
+.inputs label {
+  color: #9a3f3f;
+  font-weight: bolder;
+  font-size: 17px;
+  margin-left: 15px;
+}
+
+.metadeCadastro h2 {
+  color: #9a3f3f;
+  position: absolute;
+  right: 80px;
+  font-size: 35px;
+  top: 0px;
+}
+
+.inputs button {
+  width: 310px;
+  background-color: #9a3f3f;
+  border-radius: 5px;
+  border: none;
+  height: 25px;
+  color: #e6cfa9;
+  margin-left: 35px;
+  margin-top: 15px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.livroImg {
+  width: 350px;
+  position: absolute;
+  top: 180px;
+  top: 100px;
+}
+
+.inputs p {
+  font-weight: lighter;
+  margin-left: 180px;
+}
+
+.inputs button:hover {
+  background-color: #772f2f;
+  transform: scale(1.1);
+}

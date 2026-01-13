@@ -1,0 +1,9 @@
+.list{
+    display: flex;
+    list-style: none;
+}
+
+.item{
+    background-color: rgb(141, 163, 163);
+    margin-right: 150px;
+}

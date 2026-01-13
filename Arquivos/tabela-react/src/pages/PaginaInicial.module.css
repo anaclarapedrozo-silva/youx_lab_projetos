@@ -1,0 +1,31 @@
+.div_inicial {
+  margin: 10px;
+  width: 35%;
+  height: 100%;
+  border-right: 1px solid #fff;
+}
+
+/* .tabelinha{
+    margin-left: 50%;
+} */
+
+.div_inicial h1 {
+  color: #fff;
+}
+
+.btnSalvar {
+  width: 8em;
+  height: 2.5em;
+  border-radius: 5px;
+  border: none;
+  margin: 10px;
+  color: #fff;
+  background-color: #929191;
+  transition: transform 0.2s;
+}
+
+.btnSalvar:hover {
+  transform: scale(1.1);
+  color: #fff;
+  background-color: #7e7d7d;
+}

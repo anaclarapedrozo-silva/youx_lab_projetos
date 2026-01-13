@@ -1,0 +1,58 @@
+{
+  "categories": [
+    {
+      "id": "0",
+      "name": "Escolha uma categoria"
+    },
+    {
+      "id": "1",
+      "name": "Estudos"
+    },
+    {
+      "id": "2",
+      "name": "Casa"
+    },
+    {
+      "id": "3",
+      "name": "Trabalho"
+    },
+    {
+      "id": "4",
+      "name": "Fisíco"
+    },
+    {
+      "id": "5",
+      "name": "Pessoal"
+    }
+  ],
+  "tarefas": [
+    {
+      "id": "d6d3",
+      "nome": "Limpar a varanda",
+      "data": "2025-08-22",
+      "categories": "Casa",
+      "status": "concluido"
+    },
+    {
+      "id": "d686",
+      "nome": "Varrer o consultório",
+      "data": "2025-08-29",
+      "categories": "Trabalho",
+      "status": "concluido"
+    },
+    {
+      "id": "0f15",
+      "nome": "Fazer suco de jaca",
+      "data": "2025-09-03",
+      "categories": "Pessoal",
+      "status": "pendente"
+    },
+    {
+      "id": "c9ae",
+      "nome": "Brincar de Minions",
+      "data": "2025-08-19",
+      "categories": "Trabalho",
+      "status": "pendente"
+    }
+  ]
+}

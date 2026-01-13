@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  /* background-color: #35656b; */
+  background-image: radial-gradient(circle, #7a8672, #3F7D58);
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

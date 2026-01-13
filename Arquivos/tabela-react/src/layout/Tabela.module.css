@@ -1,0 +1,80 @@
+.tabela_div {
+  position: absolute;
+  width: 50%;
+  height: 50%;
+  left: 35em;
+  top: 50px;
+ 
+}
+.tabela {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.tabela th {
+  color: #fff;
+  padding: 8px;
+  text-align: left;
+  border: 1px solid #fff;
+}
+
+.tabela td {
+  color: #fff;
+  padding: 8px;
+  text-align: left;
+  border: 1px solid #fff;
+}
+
+.semDados {
+  width: 160%;
+  height: 50%;
+  margin-top: 0;
+  border: 1px solid #fff;
+  color:#fff;
+  margin-left: 50px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.btnEditar{
+  background-color: #3F7D58;
+  color: #fff;
+  border: none;
+  height: 23px;
+  width:60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+  transition: transform 0.2s;
+  cursor: pointer;
+}
+
+.btnEditar:hover{
+  transform: scale(1.1);
+  background-color: #3e7754;
+}
+
+.btnLixo{
+  background-color: #3F7D58;
+  color: #fff;
+  border: none;
+  height: 23px;
+  width:60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+  transition: transform 0.2s;
+  cursor: pointer;
+}
+
+.btnLixo:hover{
+  transform: scale(1.1);
+  background-color: #3e7754;
+}
+
+.tabela_div h2{
+  color:#fff;
+}

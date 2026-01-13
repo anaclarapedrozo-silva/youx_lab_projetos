@@ -1,0 +1,57 @@
+.pendente {
+  background-color: rgb(207, 207, 207);
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.concluido {
+  background-color: rgb(94, 81, 124);
+  border-radius: 5px;
+  font-weight: bold;
+  color: #F5EFFF;
+}
+
+.tabela_div {
+  position: absolute;
+  width: 55%;
+  height: 50%;
+  left: 30em;
+  top: 120px;
+}
+.tabela {
+  width: 100%;
+}
+
+.tabela th {
+  color: #A294F9;
+  padding: 8px;
+  text-align: left;
+  border: 1px solid #A294F9;
+}
+
+.tabela td {
+  color: #A294F9;
+  padding: 8px;
+  text-align: left;
+  border: 1px solid #A294F9;
+}
+
+.btnAcoes{
+  background-color: #A294F9;
+  color: #F5EFFF;
+  border: none;
+  transition: transform 0.2s;
+  cursor: pointer;
+  margin-left: 9px;
+  width: 40px;
+  height: 25px;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+.btnAcoes:hover{
+  background-color: #7d72c0;
+  color: #e8ffd7;
+  border: none;
+  transform: scale(1.1);
+}

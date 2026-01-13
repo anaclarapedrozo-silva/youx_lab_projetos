@@ -1,0 +1,46 @@
+.container_pag {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+.container_pag h2 {
+  background-color: #A294F9;
+  color: #e8ffd7;
+  text-align: center;
+}
+
+.container_pag h4{
+    color: #A294F9;
+    font-size: 20px;
+    margin-left: 6px;
+    
+}
+
+.btnEnviar{
+  background-color: #A294F9;
+  color: #e8ffd7;
+  border: none;
+  transition: transform 0.2s;
+  cursor: pointer;
+  margin-left: 9px;
+  width: 110px;
+  height: 25px;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+.btnEnviar:hover{
+  background-color: #7d72c0;
+  color: #e8ffd7;
+  border: none;
+  transform: scale(1.1);
+}
+
+.selectFiltro{
+  position: absolute;
+  left: 37%;
+  top:11%
+}

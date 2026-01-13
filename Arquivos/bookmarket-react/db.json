@@ -1,0 +1,84 @@
+{
+  "livros": [
+    {
+      "nome": "A empregada",
+      "imagem": "../imagens/empregada.jpeg",
+      "autor": "Freida McFadden",
+      "editora": "Arqueiro",
+      "preço": 48.99,
+      "sinopse": "Todos os dias, Millie limpa a casa de Nina e Andrew Winchester de cima a baixo. Pega a filha deles na escola. Prepara refeições deliciosas para a família toda antes de poder se recolher e enfim comer o próprio jantar, sozinha em seu quarto minúsculo e claustrofóbico no sótão. Quando Nina passa a sujar todos os cômodos de propósito só para assisti-la limpar, Millie tenta não perder a cabeça. Quando ela conta mentiras perturbadoras sobre a própria filha e tortura psicologicamente o marido, que parece mais e mais fragilizado, Millie tenta ignorar. Afinal, com seu passado problemático, ela tem mais é que agradecer por ter conseguido esse emprego. No entanto, ao olhar bem dentro dos lindos e doces olhos de Andrew e ver o sofrimento contido neles, Millie não consegue deixar de imaginar como seria ter a vida de Nina. O closet cheio de roupas, o carro elegante, o marido perfeito. Logo os Winchesters vão descobrir que não fazem a menor ideia de quem Millie é de verdade. Nem do que ela é capaz de fazer...",
+      "paginas": 352,
+      "estrelas": 2.5
+    },
+    {
+      "nome": "Caraval",
+      "imagem": "../imagens/caraval.jpeg",
+      "autor": "Stephanie Garber",
+      "editora": "Gutenberg",
+      "preço": 39.98,
+      "sinopse": "Os anos de espera acabaram: a jovem Scarlett Dragna finalmente recebeu o tão esperado convite para participar do Caraval, um evento lendário que ocorre uma vez por ano e que conta com a participação do público. Acontece que ela e sua adorada irmã mais nova, Donatella, vivem sob a tutela de um pai tão poderoso quanto cruel, que nunca permitiu que as duas saíssem da pequena ilha onde moram. E, como se não bastasse, o pai prometeu a mão de Scarlett para um conde. O casamento arranjado faz com que ela perca as esperanças de participar do Caraval. Ao perceber a frustração da irmã, Tella se alia a um misterioso marinheiro para levar Scarlett ao local do jogo. Mas, assim que elas chegam, a caçula é sequestrada pelo organizador do evento. Ao que tudo indica, o jogo desse ano irá girar em torno da irmã de Scarlett: vence quem encontrar Tella primeiro. Há quem diga que os acontecimentos do Caraval não passam de uma grande performance, mas nada impede Scarlett de vivenciar amor, desgosto e magia ao lado dos outros jogadores. Se tudo é verdade ou mentira, não importa: ela tem apenas cinco noites para decifrar as pistas que a levarão até a irmã. Caso contrário, Tella desaparecerá para sempre.",
+      "paginas": 352,
+      "estrelas": 4.5
+    },
+    {
+      "nome": "Amor e ódio",
+      "imagem": "../imagens/amor.jpeg",
+      "autor": "Ana Huang",
+      "editora": "Essência",
+      "preço": 43.96,
+      "sinopse": "Josh Chen é arrogante, deslumbrante e está a caminho de se tornar um médico de sucesso. Ele nunca conheceu uma mulher que resistisse ao seu charme, exceto por Jules Ambrose. A bela ruiva tem sido uma pedra em seu sapato desde quando se conheceram, mas ela também consome os pensamentos dele de uma maneira que nenhuma outra mulher foi capaz. Quando toda essa animosidade entre eles explode em uma noite memorável, Josh propõe uma solução que matará a vontade dos dois: um acordo de inimizade colorida com regras simples: Sem ciúmes. Sem conexão. E sem paixão. Jules Ambrose é uma ex-baladeira extrovertida e ambiciosa, cujo foco está em apenas um objetivo: passar no exame da Ordem dos Advogados. A última coisa da qual ela precisa é se envolver com um médico que transforma algo complicado numa situação insuportável... não interessa o quão lindo ele seja. Porém, quanto mais ela o conhece, mais percebe que o homem que detesta há tanto tempo é mais do que ela conseguia enxergar. O irmão da sua melhor amiga. O seu inimigo. E também a sua única salvação. A união deles é quente como o inferno. E quando os demônios do passado os alcançam, ambos encaram verdades que podem salvá-los... ou destruir tudo o que construíram juntos.",
+      "paginas": 352,
+      "estrelas": 4.7
+    },
+    {
+      "nome": "Estilhaça-me",
+      "imagem": "../imagens/estilha.jpeg",
+      "autor": "Tahereh Mafi",
+      "editora": "Universo dos livros",
+      "preço": 51.56,
+      "sinopse": "Um toque é o bastante. Com apenas um toque, Juliette Ferrars é capaz de fazer um homem adulto se ajoelhar de dor e implorar por misericórdia. Um único toque de Juliette pode matar. Ninguém sabe por que a garota tem um poder tão impressionante, o qual ela acredita ser uma maldição, um fardo que uma pessoa sozinha seria incapaz de carregar. Contudo, o Restabelecimento enxerga essa característica como um dom e passa a vê-la como uma oportunidade - uma oportunidade de usá-la como arma letal. Porém, Juliette tem seus próprios planos.",
+      "paginas": 352,
+      "estrelas": 4.0
+    },
+    {
+      "nome": "A cabana",
+      "imagem": "../imagens/cabana.jpeg",
+      "autor": "Wm. Paul Young",
+      "editora": "Arqueiro",
+      "preço": 32.99,
+      "sinopse": "Durante uma viagem de fim de semana, a filha mais nova de Mack Allen Phillips é raptada e evidências de que ela foi brutalmente assassinada são encontradas numa velha cabana. Após quatro anos vivendo numa tristeza profunda causada pela culpa e pela saudade da menina, Mack recebe um estranho bilhete, aparentemente escrito por Deus, convidando-o a voltar à cabana onde acontecera a tragédia. Apesar de desconfiado, ele vai ao local numa tarde de inverno e adentra passo a passo o cenário de seu mais terrível pesadelo. Mas o que ele encontra lá muda o seu destino para sempre. Em um mundo cruel e injusto, A cabana levanta um questionamento atemporal: se Deus é tão poderoso, por que não faz nada para amenizar nosso sofrimento?As respostas que Mack encontra vão surpreender você e podem transformar sua vida de maneira tão profunda quanto transformaram a dele. Você vai querer partilhar esse livro com todas as pessoas que ama.",
+      "paginas": 352,
+      "estrelas": 4.5
+    },
+    {
+      "nome": "O príncipe cruel",
+      "imagem": "../imagens/principe.jpeg",
+      "autor": "Holly Black",
+      "editora": "Galera",
+      "preço": 38.99,
+      "sinopse": "Jude tinha apenas sete anos quando seus pais foram brutalmente assasinados e ela e as irmãs levadas para viver no traiçoeiro Reino das Fadas. Dez anos depois, tudo o que Jude quer é se encaixar, mesmo sendo uma garota mortal. Mas todos os feéricos parecem desprezar os humanos... Especialmente o príncipe Cardan, o mais jovem e mais perverso dos filhos do Grande Rei de Elfhame Para conquistar o tão desejado lugar na Corte, Jude precisa desafiar o príncipe - e enfrentar as consequências do ato. A garota passa, então, a se envolver cada vez mais nos jogos e intrigas do palácio, e acaba descobrindo a própria vocação para trapaças e derramamento de sangue. Mas quando uma traição ameaça afogar o Reindo das Fadas em violência, Jude precisará arriscar tudo em uma perigosa aliança para salvar suas irmãs - e a própria Elfhame. Cercada por mentiras e pessoas que desejam destruí-la , Jude terá que descobrir o verdadeiro significado da palavra poder antes que seja tarde demais. Com personagens únicos, reviravoltas inesperadas, e uma traição de tirar o fôlego, O príncipe cruel vai deixar o leitor querendo mergulhar de cabeça na continuação deste universo.",
+      "paginas": 352,
+      "estrelas": 5.0
+    },
+    {
+      "nome": "Powerless",
+      "imagem": "../imagens/powerless.jpeg",
+      "autor": "Lauren Roberts",
+      "editora": "Rocco",
+      "preço": 43.79,
+      "sinopse": "Kai é um príncipe poderoso, treinado para matar. Paedyn é uma garota comum que sobrevive fingindo ter poderes. Quando os caminhos dos dois se encontram por acaso, eles não imaginam que serão oponentes em uma competição mágica brutal. Nem que se verão envolvidos em um romance proibido e perigoso ― tão impossível quanto inevitável. Apenas os Notáveis são aceitos no reino de Ilya. Os poderes diversos que possuem há décadas foram concedidos pela Peste, e aqueles que nascem Comuns são apenas isso ― comuns. Quando o rei decretou que qualquer pessoa sem uma habilidade especial fosse perseguida e banida, Paedyn Gray tornou-se criminosa por destino e ladra por necessidade. Sobreviver nas favelas sem ter um poder não é simples, e Paedyn sabe disso melhor do que ninguém. Treinada para mentir, ela se apresenta como uma Psíquica, camuflando-se da melhor forma possível em meio aos outros. Até o dia em que salva a vida de Kai, um dos príncipes de Ilya. De repente, ela se vê convocada para as Provas do Expurgo, uma competição destinada a exibir os poderes dos Notáveis ― exatamente o que ela não tem. Para piorar, Kai é um de seus oponentes, e fica cada vez mais difícil ignorar a atração que cresce entre os dois. A realidade é que, se as Provas não matarem Paedyn, Kai certamente o fará quando descobrir que ela é… completamente Comum.",
+      "paginas": 352,
+      "estrelas": 4.0
+    },
+    {
+      "nome": "A hipótese do amor",
+      "imagem": "../imagens/hipotese.jpeg",
+      "autor": "Ali Hazelwood",
+      "editora": "Arqueiro",
+      "preço": 47.56,
+      "sinopse": "Olive Smith, aluna do doutorado em Biologia da Universidade Stanford, acredita na ciência - não em algo incontrolável como o amor. Depois de sair algumas vezes com Jeremy, ela percebe que sua melhor amiga gosta dele e decide juntá-los. Para mostrar que está feliz com essa escolha, Olive precisa ser convincente: afinal, cientistas exigem provas.Sem muitas opções, ela resolve inventar um namoro de mentira e, num momento de pânico, beija o primeiro homem que vê pela frente. O problema é que esse homem é Adam Carlsen, um jovem professor de prestígio - conhecido por levar os alunos às lágrimas. Por isso, Olive fica chocada quando o tirano dos laboratórios concorda em levar adiante a farsa e fingir ser seu namorado. De repente, seu pequeno experimento parece perigosamente próximo da combustão e aquela pequena possibilidade científica, que era apenas uma hipótese sobre o amor, transforma-se em algo totalmente inesperado.",
+      "paginas": 352,
+      "estrelas": 4.5
+    }
+  ]
+}

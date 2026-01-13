@@ -1,0 +1,70 @@
+.div_fundo {
+  background-color: #3e5f443f;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.div_modal {
+  background-color: #8dbcc7;
+  width: 60%;
+  height: 70%;
+  box-shadow: 1px 1px 10px 1px #5f7074;
+  border-radius: 15px;
+}
+
+.div_fundo input {
+  width: 25em;
+  background-color: #fff;
+  border: none;
+  border-radius: 5px;
+  height: 2em;
+  margin-top: 3px;
+}
+
+.div_fundo label {
+  color: #ebffd8;
+  font-weight: inherit;
+}
+
+.btnSalvar {
+  background-color: #c4e1e6;
+  color: #222;
+  border: none;
+  transition: transform 0.2s;
+  cursor: pointer;
+  margin-left: 30px;
+  width: 110px;
+  height: 25px;
+  border-radius: 5px;
+  margin-top: 65px;
+}
+
+.btnSalvar:hover {
+  background-color: #5f7074;
+  color: #e8ffd7;
+  border: none;
+  transform: scale(1.1);
+}
+
+.mcgorila {
+  position: absolute;
+  top: 70px;
+  right: 230px;
+}
+
+.btnSair {
+  background: none;
+  border: none;
+  font-weight: bolder;
+  font-size: 20px;
+  margin-top: 5px;
+  margin-left: 745px;
+  cursor: pointer;
+}

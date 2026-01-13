@@ -1,0 +1,26 @@
+.emoji {
+  font-size: 30px;
+  font-weight: bold;
+  display: flex;
+  margin-right: 12px;
+  margin-top: 1px;
+}
+
+h4 {
+  font-size: 15px;
+  display: flex;
+}
+
+.btnVer {
+  background-color: #c1856d;
+  border: none;
+  height: 25px;
+  width: 150px;
+  border-radius: 5px;
+  cursor: pointer;
+  color: #fbf9d1;
+}
+
+.btnVer:hover {
+  background-color: #b17a64;
+}

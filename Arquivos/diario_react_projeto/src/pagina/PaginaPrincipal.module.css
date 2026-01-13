@@ -1,0 +1,42 @@
+.pag {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  flex-direction: column;
+}
+
+.diario{
+    background-color: #9A3F3F;
+    color: #E6CFA9;
+}
+
+.pag h2{
+    color: #9A3F3F;
+    font-size: 30px;
+}
+
+.pag p{
+    color: #9A3F3F;
+}
+
+.livroImg{
+    width: 350px;
+}
+
+
+.pag button{
+    background-color: #9A3F3F;
+    border: none;
+    width: 200px;
+    height: 35px;
+    border-radius: 5px;
+    color: #E6CFA9;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.pag button:hover{
+    background-color: #833838;
+    transform: scale(1.1);
+}

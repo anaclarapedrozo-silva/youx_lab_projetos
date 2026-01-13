@@ -1,0 +1,188 @@
+{
+  "users": [
+    {
+      "id": "1708",
+      "email": "ana@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "5531",
+      "email": "jose@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "a4a1",
+      "email": "ricardinho@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "46d9",
+      "email": "keversonespadilha@gmail.com",
+      "password": "123anafregues"
+    },
+    {
+      "id": "a57a",
+      "email": "maria@gmail.com",
+      "password": "654321"
+    },
+    {
+      "id": "4136",
+      "email": "julio@gmail.com",
+      "password": "juliogoiaba"
+    },
+    {
+      "id": "03cf",
+      "email": "aninhadoraio@gmail.com",
+      "password": "12345678"
+    }
+  ],
+  "segredos": [
+    {
+      "id": "43c3",
+      "data": "2025-09-17",
+      "texto": "Maybe it's the way you say my name, maybe it's the way you play your game... But so good, i never known anybody like you!! But so good, i never dreamed nobody like you",
+      "emoji": "feliz",
+      "email": "ana@gmail.com"
+    },
+    {
+      "id": "aff7",
+      "data": "",
+      "texto": "Vou caçar mais de um milhão de vagalumes por aí\nPra te ver sorrir, eu posso colorir o céu de outra cor\nEu só quero amar você e quando amanhecer\nEu quero acordar do seu lado\n\nVou escrever mais de um milhão de canções pra você ouvir\nQue meu amor é teu, teu sorriso me faz sorrir\nEu vou de Marte até a Lua, cê sabe, já tô na tua\nE não cabe tanta saudade, essa verdade nua e crua\n\nEu sei o que eu faço, nosso caminho, eu traço\nUm casal fora da lei, ocupando o mesmo espaço\nSe eu tô contigo, não ligo se o Sol não aparecer\nÉ que não faz sentido caminhar sem dar a mão pra você\n\nTeu sonho impossível vai ser realidade\nSei que o mundo tá terrível\nMas não vai ser a maldade que\nVai me tirar de você, eu faço você ver\nPra tu sorrir, eu faço o mundo inteiro saber que eu\n\nVou caçar mais de um milhão de vagalumes por aí\nPra te ver sorrir, eu posso colorir o céu de outra cor\nEu só quero amar você e quando amanhecer\nEu quero acordar do seu lado\n\nPra ter o teu sorriso, eu descubro o paraíso\nÉ só ver sua boca que eu perco o juízo por inteiro\nSentimento verdadeiro, eu e você\nAo som de Janelle Monáe, vem, deixa acontecer\n\nE me abraça, que o tempo não passa quando cê tá perto\nDá a mão e vem comigo, que eu vejo como eu tô certo\nEu digo que te amo, cê pede algo impossível\nLevanta da sua cama, hoje o céu está incrível (incrível)\n\nVou caçar mais de um milhão de vagalumes por aí\nE pra te ver sorrir, eu posso colorir o céu de outra cor\nEu só quero amar você e quando amanhecer\nEu quero acordar do seu lado\n\nFaço dos teus braços um lugar mais seguro\nProcurei paz em outro abraço, eu não achei, eu juro\nSaio do compasso, passo apuros, o que vier\nAbro a janela pra que você possa ver\n\nVou caçar mais de um milhão de vagalumes por aí\nPra te ver sorrir, eu posso colorir o céu de outra cor\nEu só quero amar você e quando amanhecer\nEu quero acordar do seu lado",
+      "emoji": "",
+      "email": "ana@gmail.com"
+    },
+    {
+      "id": "bd16",
+      "data": "",
+      "texto": "Eu fecho o olho, me sinto inspirado, quando eu vejo os favelados do meu lado. Eu vejo o presente, o futuro e o passado, como um blues man, um acorde bem tocado. Você vai sentir minhas dores... Uh, você vai sentir minhas flores. Porque no meu redor nem todos se chamam Gabriel, mas eu garanto que mais que todos são pensadores, pensa em dores, pensa em quantos, planos, minas tem deixado planos, danos, vidas. Eu já vi o Thanos na aveniada, deixando suas 5 jóias e matando suas filhas por cocaína - Barreto",
+      "emoji": "feliz",
+      "email": "ana@gmail.com"
+    },
+    {
+      "id": "9727",
+      "data": "2025-09-18",
+      "texto": "I still remember, thrid of december, me in yoyr sweater. You said i ook better on me than the did you, only if you now, how much i liked her",
+      "emoji": "triste",
+      "email": "ana@gmail.com"
+    },
+    {
+      "id": "83e0",
+      "data": "2025-10-03",
+      "texto": "aaaaaaaa",
+      "emoji": "triste",
+      "email": "ana@gmail.com"
+    },
+    {
+      "id": "56d9",
+      "data": "2025-09-18",
+      "texto": "Eu fecho o olho, me sinto inspirado, quando eu vejo os favelado do meu lado. Eu vejo o presente, o futuro e o passado, como um blues man, um acorde bem tocado. Você vai sentir minhas dores... Uh, você vai sentir minhas flores. Porque no meu redor nem todos se chamam Gabriel, mas eu garanto que mais que todos são pensadores, pensa em dores, pensa em quantos, planos, minas têm deixado danos, planos, vidas. Eu já vi o thanos na avenida, deixando suas 5 jóias e matando suas filhas por cocaína - Barreto rsrsrsrs ",
+      "emoji": "feliz",
+      "email": "jose@gmail.com"
+    },
+    {
+      "id": "b6b0",
+      "data": "2025-09-18",
+      "texto": "Eu sempre andei com o mesmo bando, 4 manos... sr. Onde que tava esse povo há 4 anos. 4 manos num carro caro 4 por 4 branco. Zero falácias, 4 palácios, 4 pros 4 manos.",
+      "emoji": "feliz",
+      "email": "jose@gmail.com"
+    },
+    {
+      "id": "e3fc",
+      "data": "2025-09-18",
+      "texto": "Eu criei uma casca, o homem da casa\nE nenhuma farsa atinge (ah—ah)\nPor dentro do casco, sinto tudo que minha carcaça finge\nDebaixo de um detalhe azul\nÉ o lugar que minha alma vive\nÉ o lugar que meus trauma habita (ey!)\nEssa merda é o karma do líder (ah)\nTô movimentando o que me move (haha)\nNós se locomove como nuvem (haha, yeah)\nAtravés da arte que renasce, o lugar dessa aqui é lá no louvre\nTipo uma, tipo uma bala no meu copo (ahn)\nSeu ego frágil se dissolve (ahn, ahn—ahn)\nDevolve as rima pro YouTube, no meu fã clube tem seu nome\nNós—nós—nós tamo tomando dos boy do primeiro ao último cifrão\nDoutrinado cedo pelo pai, nós que movemo a multidão\nNós que movemo a multidão\nFala, fala quem segura as ponta depois que os últimos se vão?\nFiz um mutirão (yeah), procê entender o valor de um eu te amo (ah)",
+      "emoji": "feliz",
+      "email": "jose@gmail.com"
+    },
+    {
+      "id": "9022",
+      "data": "2025-09-18",
+      "texto": "Eu sempre quis o mesmo ramo, mesmo plano.Compartilhei da mesma fome, da mesma fama. Isso me lembra um filme, parece que foi ontem, numa roda de freestyle na gama da Fernanda",
+      "emoji": "triste",
+      "email": "jose@gmail.com"
+    },
+    {
+      "id": "1211",
+      "data": "2025-09-18",
+      "texto": "E agora é terça—feira e eu tô suave (yeah), pique tirando onda (si). \nO negativo também anda por essas bandas (ahn). \nJá esperava por isso, essa merda não assombra (como não assombra?). \nEu vejo o mainstream, e é tipo uma luta pra ver quem é a melhor sombra.\nJá eu repito o movimento e troco de barra, \nisso até causa câimbra (câimbra).\nEu já tive do lado do forte e do fraco,\n então eu sei o valor dos dois lados\nO que eu perdi no caminho foi o que formou o meu rastro, \npor isso em festas eu exalo. \nQuilometrei tanto, ainda nem tenho o meu carro, \nsó daqui alguns anos vocês encontram um assim tão raro. \nMeu melhor X—1 é contra os que vos falam",
+      "emoji": "feliz",
+      "email": "jose@gmail.com"
+    },
+    {
+      "id": "0b4c",
+      "data": "2025-09-18",
+      "texto": "Que nunca abaixaram a cabeça pra vida, \nmemo não tendo saída (ah—aight), \n(Slat, slat, slat) Que saíram de casa na noite mais feia \npra fazer as rima mais linda (ah, é). \nQue mastigaram até migalhas (ah, é) pra hoje ter caviar na barriga,\nAhn, me diz como que fica? \n\nOs bico sujo que disseram que isso era sorte? \nEssa porra é seis anos de trampo, essa merda é o dobro do corre (é), \nEssa merda é tudo que eu mais amo, tipo fumar maconha. \nOs problemas não acompanham se eu tô a duzentos (ih), \nSua vida é uma live, coisa de momento (skrr, skrr), \nE seus manos fumam pen drive (hahaha), \n(Sesh) os meus contam o vento. \nE o que tem melhorado o meu sono (cash, cash), é aquilo que deixou com mais sono (ah—ah—aight). \n(Ah) tipo a grana da empresa que dá insônia, \nMas eu só vou parar quando eu for o dono,\n(ai—ai—ai—ai—ai), \nMas eu só vou parar quando eu tiver como? \nForradão de joias, sentado num trono, \nPra que os olhares em volta compense os traumas do abandono",
+      "emoji": "feliz",
+      "email": "jose@gmail.com"
+    },
+    {
+      "id": "e059",
+      "data": "2025-09-18",
+      "texto": "Ahn, quando o irmão mais novo fala, evidencia o dom da palavra. Eu pedi pra Deus salvação pros meus, Ele mandou um stilo prata, dentro dele alguém com cabelos loiros e um amor que nunca acaba.. Ah como eu queria voltar no tempo e te dar mais que palavras. E se eu te desse o mundo inteiro, ainda seria pouco. É nível hard pra quem vem de baixo, imagina pra quem vem do esgoto. A tristeza se esgotou, e hoje de bençãos me afogo, gravando essa no studio, lembrei daquela sessão de fotos. Hoje ficou fácil falar que os meninos tá tendo vida de bacana, difícil é ter o mesmo pique pra rimar toda semana. Sua boca nunca vai ser digna de falar cowabunga. A ponta da sua Glock combina com a cor da minha bandana (hey, boy)",
+      "emoji": "triste",
+      "email": "jose@gmail.com"
+    },
+    {
+      "id": "6a93",
+      "data": "2025-09-18",
+      "texto": "Se Judas me trair, o que que eu vou fazer? Se eu matar ele eu mostro o ódio que mora no Jotape. Se Judas me trair eu vou matar ou morrer. Judas eu te perdoô, eu sou melhor que você.",
+      "emoji": "normal",
+      "email": "jose@gmail.com"
+    },
+    {
+      "id": "1063",
+      "data": "2025-09-18",
+      "texto": "zzzzzz",
+      "emoji": "normal",
+      "email": "jose@gmail.com"
+    },
+    {
+      "id": "78f9",
+      "data": "2025-09-18",
+      "texto": "querido diario, demon slayer foi muito foda, queria ver de novo!!!!!!!!!",
+      "emoji": "",
+      "email": "keversonespadilha@gmail.com"
+    },
+    {
+      "id": "3d09",
+      "data": "2025-09-18",
+      "texto": "wueirod diario hoje perdi a paciencia nossa serio, aquela professora bocó nao gosto dela meodeus",
+      "emoji": "triste",
+      "email": "keversonespadilha@gmail.com"
+    },
+    {
+      "id": "6991",
+      "data": "2025-09-10",
+      "texto": "querido diário, fui pega ouvido waka waka da shakira, fiquei com muita vergonha, tudo culpa do Keverson insuportavel, affs odeio  ele",
+      "emoji": "normal",
+      "email": "maria@gmail.com"
+    },
+    {
+      "id": "2172",
+      "data": "2025-10-20",
+      "texto": "meu sonho é ser front",
+      "emoji": "",
+      "email": "julio@gmail.com"
+    },
+    {
+      "id": "3155",
+      "data": "2025-10-20",
+      "texto": "aaaaaaaa",
+      "emoji": "triste",
+      "email": "julio@gmail.com"
+    },
+    {
+      "id": "8079",
+      "data": "2025-12-11",
+      "texto": "Eu conheço uma estrela, ela bancou minha festa.\nPra me dar um boot novo ela fez hora extra.\nEu conheço uma estrela, e você ta moscando.\nEu sou uma estrela cadente, eu caio, mas eu caio brilhando.",
+      "emoji": "",
+      "email": "aninhadoraio@gmail.com"
+    },
+    {
+      "id": "71d8",
+      "data": "2025-12-11",
+      "texto": "Não reclame de barriga cheia\nPorque no fundo isso atrapalha\nPositividade na cabeça\nAmor e fé, precisa de mais nada\nO amor está em todo lugar\nNum aperto de mão\nNuma declaração\nNo fundo do coração\nA gente morre e fica tudo aí\nE desse mundo não se leva nada\nTem que sorrir, com dinheiro ou sem\nA maior riqueza cê já tem\nA gente morre e fica tudo aí\nE desse mundo não se leva nada\nQuem planta amor vai colher o bem\nDiga eu te amo pra alguém\nDiga eu te amo pra alguém\nDiga eu te amo pra alguém\nNão reclame de barriga cheia\nPorque no fundo isso atrapalha\nPositividade na cabeça\nAmor e fé, precisa de mais nada\nO amor está em todo lugar\nNum aperto de mão\nNuma declaração\nNo fundo do coração\nA gente morre e fica tudo aí\nE desse mundo não se leva nada\nTem que sorrir, com dinheiro ou sem\nA maior riqueza cê já tem\nA gente morre e fica tudo aí\nE desse mundo não se leva nada\nQuem planta amor vai colher o bem\nDiga eu te amo pra alguém\nA gente morre e fica tudo aí\nE desse mundo não se leva nada\nQuem planta amor vai colher o bem\nDiga eu te amo pra alguém\nDiga eu te amo pra alguém\nDiga eu te amo pra alguém",
+      "emoji": "feliz",
+      "email": "aninhadoraio@gmail.com"
+    }
+  ]
+}

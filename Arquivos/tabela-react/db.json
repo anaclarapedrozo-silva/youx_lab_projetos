@@ -1,0 +1,94 @@
+{
+  "usuarios": [
+    {
+      "nome": "",
+      "idade": 0,
+      "estado_civil": "",
+      "cpf": ""
+    },
+    {
+      "id": "aa6c",
+      "nome": "Amanda",
+      "idade": "34",
+      "estado_civil": "casada",
+      "cpf": "32165498701"
+    },
+    {
+      "id": "04eb",
+      "nome": "",
+      "idade": null,
+      "estado_civil": "",
+      "cpf": null
+    },
+    {
+      "id": "d00a",
+      "nome": "Ana",
+      "idade": "123",
+      "estado_civil": "ruiol",
+      "cpf": "43"
+    },
+    {
+      "id": "a83f",
+      "nome": "aa",
+      "idade": "22",
+      "estado_civil": "ss",
+      "cpf": "22"
+    },
+    {
+      "id": "510c",
+      "nome": "Ana",
+      "idade": "23",
+      "estado_civil": "solteira",
+      "cpf": "12345678909"
+    },
+    {
+      "id": "e2cf",
+      "nome": "",
+      "idade": "",
+      "estado_civil": "",
+      "cpf": ""
+    },
+    {
+      "id": "555f",
+      "nome": "",
+      "idade": "",
+      "estado_civil": "",
+      "cpf": ""
+    },
+    {
+      "id": "db2d",
+      "nome": "aaa",
+      "idade": "45",
+      "estado_civil": "dddd",
+      "cpf": "23334"
+    },
+    {
+      "id": "ceb6",
+      "nome": "aaaaa",
+      "idade": "32",
+      "estado_civil": "ddddd",
+      "cpf": "23343"
+    },
+    {
+      "id": "79ba",
+      "nome": "ddd",
+      "idade": "32",
+      "estado_civil": "sss",
+      "cpf": "43"
+    },
+    {
+      "id": "4c09",
+      "nome": "asdd",
+      "idade": "234",
+      "estado_civil": "asdd",
+      "cpf": "233"
+    },
+    {
+      "id": "d273",
+      "nome": "sddsfff",
+      "idade": "434",
+      "estado_civil": "sd",
+      "cpf": ""
+    }
+  ]
+}

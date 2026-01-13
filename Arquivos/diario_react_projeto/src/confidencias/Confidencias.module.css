@@ -1,0 +1,60 @@
+.div_pai {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  margin-top: 140px;
+  gap: 10px;
+  margin-left: 50px;
+}
+
+.div_segredo {
+  background-color: #9a3f3f;
+  height: 200px;
+  width: 230px;
+  border-radius: 10px;
+  box-shadow: 1px 1px 10px 1px #9a3f3f;
+}
+
+.div_segredo p {
+  color: #dbaf9d;
+  margin: 5px;
+  font-size: 18px;
+  font-weight: bold;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3; 
+  line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+
+.div_segredo h4 {
+  color: #9a3f3f;
+  background-color: #c1856d;
+  text-align: center;
+}
+
+.btnAcoes{
+  border: none;
+  font-weight: bold;
+  margin: 5px;
+  background-color: #E6CFA9;
+  color: #9a3f3f;
+  width: 100px;
+  height: 25px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.btnAcoes:hover{
+  transform: scale(1.1);
+}
+
+.div_btn{
+  display: flex;
+  margin-top: 15px;
+  align-items: center;
+  justify-content: center;
+}
+

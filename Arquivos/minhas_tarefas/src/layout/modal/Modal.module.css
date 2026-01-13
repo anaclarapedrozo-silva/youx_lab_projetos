@@ -1,0 +1,54 @@
+.div_fundo {
+  background-color: #3e5f443f;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.div_modal {
+  background-color: #e8ffd7;
+  width: 60%;
+  height: 70%;
+  box-shadow: 1px 1px 10px 1px #3e7754;
+  border-radius: 15px;
+}
+
+.div_fundo input {
+  width: 25em;
+  background-color: #fff;
+  border: none;
+  border-radius: 5px;
+  height: 2em;
+  margin-top: 5px;
+}
+
+.div_fundo label {
+  color: #5e936c;
+  font-weight: inherit;
+}
+
+.btnSalvar{
+  background-color: #6da36f;
+  color: #e8ffd7;
+  border: none;
+  transition: transform 0.2s;
+  cursor: pointer;
+  margin-left: 9px;
+  width: 110px;
+  height: 25px;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+.btnSalvar:hover{
+  background-color: #52805e;
+  color: #e8ffd7;
+  border: none;
+  transform: scale(1.1);
+}

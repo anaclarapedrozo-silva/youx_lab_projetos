@@ -1,0 +1,51 @@
+.topoDiario{
+    background-color:#9A3F3F;
+    position: absolute;
+    width: 100vw;
+    height: 15vh;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: row;
+}
+
+.diarioVirtual{
+    width: 500px;
+    margin-left: 25px;
+    color: #e9c6b8;
+    margin-top: 30px;
+}
+
+.book{
+    color: #e9c6b8;
+    margin-left: 10px;
+    margin-top: 33px;
+}
+
+.topoDiario button{
+    margin-top: 5px;
+    color: #e9c9b8;
+    background: none;
+    border: none;
+    font-size: 16px;
+    transition: transform 0.2s;
+    cursor: pointer;
+    margin-left: 50px;
+}
+
+.topoDiario button:hover{
+    transform: scale(1.1);
+    color: #C1856D;
+}
+
+.divinha{
+    margin-left:140px;
+    display: flex;
+}
+/* 
+.divinha button{
+    background: none;
+    border: none;
+    margin-left: 300px;
+    
+} */
