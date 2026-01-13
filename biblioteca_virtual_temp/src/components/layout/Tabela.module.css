@@ -1,0 +1,43 @@
+.tabela {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 20px;
+  box-shadow: 1px 1px 10px 1px #d9c299;
+  top: 50%;
+}
+
+.tabela table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.tabela th {
+  border: 2px solid #f0e4d3;
+  background-color: #d9a299;
+  color: #504B38;
+  padding: 8px;
+  text-align: left;
+}
+
+.tabela td {
+  border: 1px solid #d9a299;
+  padding: 8px;
+  text-align: left;
+  color: #504B38;
+  
+}
+
+.tabela tbody {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.tabela tr:nth-child(odd) {
+  background-color: #e6d0be;
+  color: #504B38;
+}

@@ -1,0 +1,29 @@
+.container_modal h1{
+    color: #504B38;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container_modal strong{
+    color: #a2746d;
+    font-size: 18px;
+}
+
+.container_modal p{
+    color: #504B38;
+}
+
+.container_modal img{
+    border: 6px solid #a2746d;
+    margin-top: 15px;
+}
+
+.div_textos{
+    position: absolute;
+    width: 390px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1px;
+}

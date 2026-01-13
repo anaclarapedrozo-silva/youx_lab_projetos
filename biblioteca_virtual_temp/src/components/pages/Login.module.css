@@ -1,0 +1,10 @@
+body{
+    background-color: #F0E4D3;;
+}
+
+.ou{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0em;
+}

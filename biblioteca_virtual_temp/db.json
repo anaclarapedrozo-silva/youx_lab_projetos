@@ -1,0 +1,190 @@
+{
+  "usuarios": [
+    {
+      "id": "cbaf",
+      "nome": "Ana Clara",
+      "email": "ana@gmail.com",
+      "senha": "Ana Clara"
+    },
+    {
+      "id": "9fc7",
+      "nome": "maria",
+      "email": "analu@gmail.com",
+      "senha": "987654"
+    },
+    {
+      "id": "9053",
+      "nome": "Maria Luiza",
+      "email": "iza@gmail.com",
+      "senha": "1234555"
+    },
+    {
+      "id": "f86c",
+      "nome": "Kageyama Tobio",
+      "email": "kageyama@gmail.com",
+      "senha": "123456"
+    },
+    {
+      "id": "27d9",
+      "nome": "Maria Luiza",
+      "email": "Iza@gmail.com",
+      "senha": "123456"
+    },
+    {
+      "id": "1ec9",
+      "nome": "Hinata Shoyo",
+      "email": "hinatinhagrande@gmail.com",
+      "senha": "hinatalindoMelhorACe"
+    },
+    {
+      "id": "ecc9",
+      "nome": "Ana Clara",
+      "email": "anaClara@gmail.com",
+      "senha": "123456"
+    },
+    {
+      "id": "92b9",
+      "nome": "Hinata Shoyo",
+      "email": "hinatapequenogigante@gmail.com",
+      "senha": "hinataLindoAce"
+    },
+    {
+      "id": "ea39",
+      "nome": "Ana Clara Pedrozo",
+      "email": "luigfrr@gmail.com",
+      "senha": "123456"
+    },
+    {
+      "id": "c249",
+      "nome": "nnnn",
+      "email": "nnnn@gmail.com",
+      "senha": "nnnnnn"
+    },
+    {
+      "id": "02cb",
+      "nome": "Amanda Ribeiro Joana",
+      "email": "amandajoana@gmail.com",
+      "senha": "123456"
+    },
+    {
+      "id": "52d9",
+      "nome": "maria",
+      "email": "kageyamalindo@gmail.com",
+      "senha": "123456"
+    },
+    {
+      "id": "e2ea",
+      "nome": "Ana Clara Pedrozo",
+      "email": "anaclarapedrozo17@gmail.com",
+      "senha": "0lh0123999"
+    },
+    {
+      "id": "94b1",
+      "nome": "Ana Clara Pedrozo",
+      "email": "kageyamasan@gmail.com",
+      "senha": "123456"
+    },
+    {
+      "id": "89a4",
+      "nome": "Ana Clara Pedrozo",
+      "email": "addfghhh@gmail.com",
+      "senha": "AAAAAAA"
+    },
+    {
+      "id": "8afa",
+      "nome": "Tsukishima Key",
+      "email": "tsukishimakey@gmail.com",
+      "senha": "tsukikey"
+    },
+    {
+      "id": "b59b",
+      "nome": "kiliye",
+      "email": "oooo@gmail.com",
+      "senha": "565656"
+    },
+    {
+      "id": "f652",
+      "nome": "Kuroo Tetsuro",
+      "email": "kuroolindo@gmail.com",
+      "senha": "kuroolindo"
+    },
+    {
+      "id": "a067",
+      "nome": "alexia",
+      "email": "alexia@gmail.com",
+      "senha": "123456"
+    },
+    {
+      "id": "076e",
+      "nome": "wiliiam bonner",
+      "email": "williambonner@gmail.com",
+      "senha": "123456"
+    },
+    {
+      "id": "4584"
+    },
+    {
+      "id": "5382",
+      "nome": "Paim",
+      "email": "paimdoraio@gmail.com",
+      "senha": "123456"
+    }
+  ],
+  "livros": [
+    {
+      "id": "1",
+      "ISBN": "9788501115553",
+      "NomeDoLivro": "O Príncipe cruel",
+      "NomeDoAutor": "Holly Black",
+      "DataDeCadastro": "09/07/2025",
+      "Paginas": 322,
+      "Imagem": "/principecruel.jpeg",
+      "Sinopse": "Jude tinha apenas sete anos quando seus pais foram brutalmente assassinados e ela e as irmãs levadas para viver no traiçoeiro Reino das Fadas. Dez anos depois, tudo o que Jude quer é se encaixar, mesmo sendo uma garota mortal. Mas todos os feéricos parecem desprezar os humanos... Especialmente o príncipe Cardan, o mais jovem e mais perverso dos filhos do Grande Rei de Elfhame. Para conquistar o tão desejado lugar na Corte, Jude precisa desafiar o príncipe e enfrentar as consequências do ato. A garota passa, então, a se envolver cada vez mais nos jogos e intrigas do palácio, e acaba descobrindo a própria vocação para trapaças e derramamento de sangue. Mas quando uma traição ameaça afogar o Reino das Fadas em violência, Jude precisará arriscar tudo em uma perigosa aliança para salvar suas irmãs - e a própria Elfhame. Cercada por mentiras e pessoas que desejam destruí-la, Jude terá que descobrir o verdadeiro significado da palavra poder antes que seja tarde demais.",
+      "Editora": "Galera"
+    },
+    {
+      "id": "2",
+      "ISBN": "9788582356487",
+      "NomeDoLivro": "Era uma vez um coração partido",
+      "NomeDoAutor": "Stephanie Garber",
+      "DataDeCadastro": "09/07/2025",
+      "Paginas": 352,
+      "Imagem": "/eraumavez.jpeg",
+      "Sinopse": "Evangeline Raposa acreditava em finais felizes... até o dia em que descobriu que o amor da sua vida ia se casar com outra. Desesperada para impedir o casamento, ela faz um acordo com o misterioso Príncipe de Copas, uma figura imortal conhecida por ser encantador e traiçoeiro. Em troca da ajuda dele, ela precisa cumprir três beijos — dados a quem ele mandar, na hora que ele quiser. Mas quando o primeiro beijo provoca o caos, Evangeline se dá conta de que lidar com um imortal é mais perigoso do que parece. Para proteger seu coração e o mundo que ama, ela vai precisar decidir até onde está disposta a ir por amor... e o quanto está disposta a perder por um final feliz.",
+      "Editora": "Gutenberg"
+    },
+    {
+      "id": "3",
+      "ISBN": "9780340979495",
+      "NomeDoLivro": "A Cabana",
+      "NomeDoAutor": "William P. Young",
+      "DataDeCadastro": "09/07/2025",
+      "Paginas": 240,
+      "Imagem": "/acabana.jpeg",
+      "Sinopse": "Durante um fim de semana, Mack Phillips recebe um misterioso bilhete convidando-o a voltar à cabana onde sua filha desaparecida teria sido vista pela última vez. Contra todas as expectativas, ele vai até lá e se depara com uma experiência espiritual transformadora. Na cabana, ele encontra manifestações de Deus, Jesus e o Espírito Santo, e embarca em uma jornada de dor, perdão e descoberta do amor divino. A obra explora temas como sofrimento, fé e esperança de forma tocante e surpreendente.",
+      "Editora": "Arqueiro"
+    },
+    {
+      "id": "4",
+      "ISBN": "9780062085481",
+      "NomeDoLivro": "Estilhaça-me",
+      "NomeDoAutor": "Tahereh Mafi",
+      "DataDeCadastro": "09/07/2025",
+      "Paginas": 352,
+      "Imagem": "/estilhacame.jpeg",
+      "Sinopse": "Juliette é uma jovem que não pode tocar ninguém: seu toque é letal. Aprisionada pelo Restabelecimento, ela vive isolada, acreditando ser um monstro. Mas tudo muda quando ela ganha uma chance de escapar — desde que aceite usar seu poder como arma. Em meio à guerra e ao caos, Juliette precisa decidir se continuará sendo uma peça do jogo ou se tomará o controle do próprio destino. Entre escolhas difíceis e paixões perigosas, ela descobre que talvez seu poder não seja uma maldição... mas um dom.",
+      "Editora": "Universo dos livros"
+    },
+    {
+      "id": "5",
+      "ISBN": "9780062362711",
+      "NomeDoLivro": "A Rainha Vermelha",
+      "NomeDoAutor": "Victoria Aveyard",
+      "DataDeCadastro": "31/07/2025",
+      "Paginas": 400,
+      "Imagem": "/rainhaVermelhaOk.jpeg",
+      "Sinopse": "O povo de Norta não conhece a paz. Seus habitantes de sangue vermelho estão acostumados a trabalhar para sustentar a elite prateada e a guerra que ela empreende contra os reinos vizinhos há muitos anos. Os prateados, por sua vez, são os únicos beneficiários do conforto da capital, aproveitando-se dos recursos gerados pelo trabalho vermelho e raramente dando as caras na linha de combate. Isso porque, ao contrário das pessoas comuns, eles têm poderes especiais – como manipular o fogo, controlar o clima e ler a mente dos outros. Mare Barrow pertence a uma família vermelha que vive em Palafitas, um vilarejo muito pobre. Ao contrário de sua irmã, que aprendeu o ofício de costureira, Mare passa os dias roubando para ajudar a família: assim, por não ter uma ocupação, quando completar dezoito anos será mandada para servir o Exército. As chances de sair viva dali são mínimas, então ela passa os dias tentando encontrar um jeito de evitar esse destino.",
+      "Editora": "Seguinte"
+    }
+  ]
+}

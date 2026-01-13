@@ -1,0 +1,26 @@
+.div_input {
+  margin-bottom: 35px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  height: 60px;
+}
+
+.div_label {
+  color: #d9a299;
+  background-color: #faf7f3;
+  font-size: 14px;
+}
+
+.div_inputs {
+  margin-bottom: 20px;
+  height: 60px;
+  width: 100%;
+}
+
+.div_labels {
+  font-size: 14px;
+  color: #d9a299;
+
+}
+

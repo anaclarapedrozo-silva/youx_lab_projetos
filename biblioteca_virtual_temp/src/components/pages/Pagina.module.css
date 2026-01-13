@@ -1,0 +1,45 @@
+.container_inicial {
+  width: 100%;
+  background-color: #d9a299;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+
+.container_inicial h3 {
+  color: #504B38;
+  margin: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.livrinho {
+  color: #504B38;
+  margin: 0;
+  font-size: 100px;
+}
+
+.container_inicial h4 {
+  color: #504B38;
+  display: flex;
+  align-items: center;
+  margin: 15px;
+  margin-left: 1000px;
+  width: 590px;
+  font-size: small;
+}
+
+.divona {
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.exit{
+  color: #504B38;
+  font-size: 30px;
+  cursor: pointer;
+  margin-left: -30px;
+}

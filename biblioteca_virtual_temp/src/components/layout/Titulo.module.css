@@ -1,0 +1,22 @@
+.titulo_div {
+  text-align: center;
+  align-items: center;
+  position: absolute;
+  top: 2%;
+  /* background-color: #faf7f3; */
+}
+
+.titulo {
+  color: #d9a299;
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+  /* margin-top: 50px; */
+  /* background-color:none; */
+}
+
+.subtitulo {
+  color: #504B38;
+  text-align: center;
+  background-color: #faf7f3;
+}
