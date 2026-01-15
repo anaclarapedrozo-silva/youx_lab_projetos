@@ -19,8 +19,7 @@ public class aula05 {
 
         if(escolha.equals("a")){
             String e = "";
-            System.out.println("Seu nome completo: ");
-            sc.nextLine();
+            System.out.print("Seu nome completo: ");
             String nome = sc.nextLine();
             contaBanco.setDono(nome);
             contaBanco.setNumConta(123);
@@ -44,6 +43,27 @@ public class aula05 {
         }
 
         contaBanco.estadoAtual();
+
+        System.out.println("Que ação deseja executar? ");
+        System.out.println("(a) Sacar");
+        System.out.println("(b) Depositar");
+        System.out.println("(c) Nenhuma das alternativas");
+        System.out.print("Digite sua escolha: ");
+        String escolha3 = sc.next();
+
+        if (escolha3.equals("a")){
+            System.out.print("Quanto deseja sacar? R$");
+            double saque = sc.nextDouble();
+            contaBanco.sacar(saque);
+        }else if(escolha3.equals("b")){
+            System.out.println("Quanto deseja depositar? R$");
+            double deposito = sc.nextDouble();
+            contaBanco.depositar(deposito);
+        }else if(escolha3.equals("c")){
+            System.out.println("Ok, saindo..");
+        }else{
+            System.out.println("Opção inválida!");
+        }
 
 
 
